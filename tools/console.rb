@@ -8,5 +8,13 @@ end
 # This is a convenient place to define variables and/or set up new object instances,
 # so they will be available to test and play around with in your console
 
+sean = Viewer.new('sean')
+
+jaws = Movie.new('jaws')
+
+
+
 binding.pry
 0 #leave this here to ensure binding.pry isn't the last line
+
+
